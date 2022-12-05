@@ -28,7 +28,7 @@ const overrides = {
   config: { cssVarPrefix: "my-theme" },
 }
 
-const theme = extendTheme({ overrides })
+const theme = extendTheme(overrides)
 
 export {
   theme,

@@ -4,10 +4,7 @@ import type { SystemStyleObject } from "@chakra-ui/theme-tools"
 
 export const Button: SystemStyleObject = {
   // style object for base or default style
-  baseStyle: {
-    fontSize: "h4",
-    borderRadius: "button",
-  },
+  baseStyle: { borderRadius: "button" },
   // styles for different sizes ("sm", "md", "lg")
   sizes: {},
   // styles for different visual variants ("outline", "solid")

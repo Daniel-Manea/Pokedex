@@ -1,0 +1,3 @@
+export {
+    PokeCard,
+} from "./Card"

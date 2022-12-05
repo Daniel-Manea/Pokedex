@@ -16,9 +16,12 @@
     ]
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.0.2",
+    "@chakra-ui/icons": "^2.0.13",
+    "@chakra-ui/react": "^2.4.2",
+    "@choc-ui/chakra-autocomplete": "^5.1.4",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@fontsource/outfit": "^4.5.10",
     "@svgr/webpack": "^6.2.1",
     "eslint-config-prettier": "^8.5.0",
     "framer-motion": "^6.3.3",
@@ -39,6 +42,8 @@
     "eslint-config-next": "^12.1.6",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.30.0",
     "eslint-plugin-react-hooks": "^4.5.0",
     "husky": "^8.0.1",
