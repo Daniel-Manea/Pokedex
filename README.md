@@ -20,11 +20,6 @@ src/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Storybook
-
-```bash
-npm run storybook
-```
 
 You will be redirected to the page when compiling is done.
 
