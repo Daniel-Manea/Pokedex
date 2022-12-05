@@ -1,4 +1,4 @@
-# 4KQA Boilerplate
+# Pokedex
 
 Directory structure
 
